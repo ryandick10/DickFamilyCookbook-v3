@@ -7,7 +7,7 @@ pagination_next: null
 
 # Dick Family Cookbook Home
 
-"Spice up your life, one recipe at a time - where flavor meets fun!"
+> "Spice up your life, one recipe at a time - where flavor meets fun!"
 
 ## Getting Started
 

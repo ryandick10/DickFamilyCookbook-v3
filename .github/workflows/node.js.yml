@@ -26,6 +26,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm intall --frozen-lockfile
+    - run: npm install --frozen-lockfile
     - run: npm run build
     

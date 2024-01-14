@@ -3,7 +3,7 @@ tags:
     - supper
 ---
 
-# Slow-Cooker Chicken Tortilla Soup
+# Simply Lasagna
 
 **Prep Time:** 20 mins
 

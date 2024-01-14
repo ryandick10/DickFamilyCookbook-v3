@@ -12,11 +12,11 @@ tags:
 ## Ingredients
 
 - 1 cup white rice
-- 1 15 ounce can black beans, drained & rinsed
-- 1 15 ounce can yellow corn, drained & rinsed
-- 1 15 ounce can diced tomatoes
-- 1 4 ounce can green chiles
-- ⅔ cup enchilada sauce
+- 1 can black beans, drained & rinsed (15oz)
+- 1 can yellow corn, drained & rinsed (15oz)
+- 1 can diced tomatoes (15oz)
+- 1 can green chiles (4oz)
+- 2/3 cup enchilada sauce
 - 1 cup veggie broth
 - 1 tablespoon ground cumin
 - 2 teaspoons chili powder

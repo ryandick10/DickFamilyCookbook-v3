@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdick_family_cookbook_v_3=self.webpackChunkdick_family_cookbook_v_3||[]).push([[661],{1892:(e,c,o)=>{o.r(c),o.d(c,{default:()=>l});o(7294);var s=o(512),k=o(1944),r=o(5281),a=o(8790),u=o(6040),i=o(5893);function l(e){return(0,i.jsx)(k.FG,{className:(0,s.Z)(r.k.wrapper.docsPages),children:(0,i.jsx)(u.Z,{children:(0,a.H)(e.route.routes)})})}}}]);

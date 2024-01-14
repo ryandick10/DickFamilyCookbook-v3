@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdick_family_cookbook_v_3=self.webpackChunkdick_family_cookbook_v_3||[]).push([[720],{3769:o=>{o.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

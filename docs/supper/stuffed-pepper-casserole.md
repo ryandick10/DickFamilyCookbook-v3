@@ -1,8 +1,8 @@
 ---
 tags:
-	- dinner
-	- one pan
-	- ground beef
+				- dinner
+				- one pan
+				- ground beef
 ---
 
 # Stuffed Pepper Casserole
